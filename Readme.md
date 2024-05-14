@@ -1,2 +1,2 @@
- To run any file
- python list-python.py
+To run python programs-
+>python filename.py
