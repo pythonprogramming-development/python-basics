@@ -20,9 +20,13 @@ I'm Sam, and I'm passionate about product engineering and web development. I cre
 
 
 ### About the app
-Simple WorldMap app to find countries. 
 
 ### useful commands to run project
+python -m venv venv
+pip install -r requirements.txt
+pip freeze > requirements.txt
+pip install package name
+pip install pandas scikit-learn
 - python filename.py
 
 ## Subscribe and Stay Updated!

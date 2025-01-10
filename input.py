@@ -29,9 +29,9 @@
 # x = list(map(int, input("Enter a multiple value: ").split()))  
 # print("List of students: ", x) 
 
-# name = input("Enter your name: ")  
-# print ("type of name", type(name))  
-# print("hello", name)  
+name = input("Enter your name: ")  
+print ("type of name", type(name))  
+print("hello", name)  
 
 print("First number is {} and second number is {}".format(2, 4))   
 print("First number is {1} and second number is {0}".format(2, 4))   
