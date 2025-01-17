@@ -38,7 +38,7 @@ Metrics (accuracy, precision, recall, F1-score)
 Neural Networks
 Convolutional Neural Networks (CNNs)
 Recurrent Neural Networks (RNNs)
-Frameworks (TensorFlow, Keras, PyTorch)
+Frameworks (TensorFlow, Keras, PyTorch) - deep learning frameworks like PyTorch or TensorFlow
 7. Natural Language Processing (NLP)
 Text Preprocessing
 Sentiment Analysis
